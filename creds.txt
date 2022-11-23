@@ -1,0 +1,12 @@
+Atlas:
+
+email: pavako1054@pamaweb.com
+first name: Pavako
+last name: Pamaweb
+password: @@hj2s4QkZXaC22
+
+cluster name: taskmanager
+username: root
+pass: root
+IP: 14.99.23.98/32
+        
